@@ -1,0 +1,8 @@
+name: learning_dart
+description: I'm learning Dart here
+version: 0.0.1
+
+dev_dependencies:
+  dart_to_js_script_rewriter: ^1.0.2
+
+transformers: [dart_to_js_script_rewriter]
